@@ -3,10 +3,10 @@ package com.ederfaria.pontoeletronico;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
+//@SpringBootTest
 class PontoEletronicoApplicationTests {
 
-	@Test
+//	@Test
 	void contextLoads() {
 	}
 
